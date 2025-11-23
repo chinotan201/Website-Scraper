@@ -63,7 +63,7 @@ Use this tool responsibly. Only scrape websites that allow data collection and c
 
 ---
 
-# 💜 **Support**
+ **Support**
 
 If you find this project useful, please:
 - ⭐ **Star the repository**
